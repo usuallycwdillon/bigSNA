@@ -4,9 +4,9 @@ subtitle    : Looking forward to Big SNA
 author      : Clarence W. Dillon
 job         : MORSS 2014
 framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
-revealjs    : 
-  theme     : beige
-  center    : "false"
+revealjs : 
+  theme  :  beige
+  center : "false"
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [bootstrap, mathjax]            # {mathjax, quiz, bootstrap}
@@ -125,8 +125,12 @@ This is also the time to introduce myself
 > Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it's the only thing that ever has. [4]
 
 * Social consensus through the influence of committed minorities [5]
-* 
-
+* Evolution of _critical mass_ 
+* Contagion models (illness, behavior, information)
+ - density
+ - weak ties
+ - imitation
+ 
 --- &vertical
 
 ### Current Tools
@@ -276,7 +280,7 @@ This is also the time to introduce myself
 
 5. [Xie, J. Sreenivasan, S. Korniss, G. _et al_, 2011](http://www.cs.rpi.edu/~szymansk/papers/pre.11.pdf)   
 
-6. [Tamas Nepasz on Stackoverflow](http://stackoverflow.com/questions/9471906/what-are-the-differences-between-community-detection-algorithms-in-igraph)
+6. [Tamas Nepusz on Stackoverflow](http://stackoverflow.com/questions/9471906/what-are-the-differences-between-community-detection-algorithms-in-igraph)
 
 7. [Rui Sarmento, __Thesis__ ](http://www.ruisarmento.com/uploads/Large_Scale_Social_Networks_Analysis_-_2013_-_Aftermath.pdf) 
 
