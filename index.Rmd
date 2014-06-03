@@ -99,7 +99,7 @@ This is also the time to introduce myself
 * Matches handily with other maths
  - sets
  - probabilistic graphical models 
- - semantics (propositional algebra)
+ - semantics (predicate algebra)
 
 ***
 
