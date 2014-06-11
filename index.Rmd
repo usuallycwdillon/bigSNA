@@ -60,7 +60,7 @@ This is also the time to introduce myself
 1. Current Tools and Methods
 2. Problems at large-scale
 3. Solutions at large-scale
-4. New possibilities with large-scale soltuions
+4. New possibilities with large-scale solutions
 
 ---  &vertical
 
@@ -89,7 +89,7 @@ This is also the time to introduce myself
 
 ### Graph Theory as Math
 
-* Graph as set of nodes (verteces) and edges
+* Graph as set of nodes (vertices) and edges
 * "Bridges of Konigsberg", Euler and genesis of Graph Theory (Epp) [2]
 * Determinate (typically) measures and metrics
  - Radius, average path, *etc*
@@ -130,7 +130,8 @@ This is also the time to introduce myself
  - density
  - weak ties
  - imitation
- 
+
+
 --- &vertical
 
 ### Current Tools
@@ -170,7 +171,7 @@ This is also the time to introduce myself
 
 * Most community detection algorithms... 
  - walk the whole graph
- - not easy to parallalize
+ - not easy to parallelize
 * Eliminates _typical big data_ solutions
  - Map-Reduce and elastic computing
  - GPU programming/CUDA
@@ -184,7 +185,7 @@ This is also the time to introduce myself
 
 * Parallelizable algorithms
 * Graph databases/storage containers
-* Improved vizualizations
+* Improved visualizations
 
 ***
 
@@ -194,7 +195,7 @@ This is also the time to introduce myself
  - each split spawns parallel process
  - edge betweenness, leading eigenvector 
 * Random processes 
- - `itterations' performed in parallel
+ - `iterations' performed in parallel
  - walktrap, spinglass, label prop, infomap
 * Other, new solutions 
  - allowing overlap
@@ -238,7 +239,7 @@ This is also the time to introduce myself
 
 * Martin Krzywinski (2011) [9]
 * Combines graphs with parallel plots/line graphs
- - verices sorted along radial axes (typically by degree)
+ - vertices sorted along radial axes (typically by degree)
  - each axis represents a graph (edge attribute)
  - produces recognizable communities
 * Easier to interpret than hairballs, censuses, subgraphs
