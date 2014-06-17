@@ -204,7 +204,7 @@ This is also the time to introduce myself
 
 ### Rui Sarmento [7]
 
-* 2013 Master's Thesis compared some solutions fir large-scale SNA
+* 2013 Master's Thesis compared some solutions for large-scale SNA
  - Hadoop, Green-Marl, Super-compute cluster (+)
  - Hadoop + Hadoop M-R + Pegasus or Giraph (0)
  - SNAP (-)
@@ -248,7 +248,7 @@ This is also the time to introduce myself
 
 ***
 
-![this is useful](assets/img/hiveplot-thisisuseful_600.png)
+![this is useful](assets/img/hiveplot-thisisuseful_800.png)
 
 --- 
 
