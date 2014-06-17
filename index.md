@@ -248,7 +248,7 @@ This is also the time to introduce myself
 
 ***
 
-![this is useful](assets/img/hiveplot-thisisuseful_800.png)
+![this is useful](assets/img/hiveplot-thisisuseful_601.png)
 
 --- 
 
